@@ -41,6 +41,8 @@ Function: Identifies antimicrobial resistance genes.
 Installation:sudo apt-get install abricate
 Source: Abricate GitHub - https://github.com/tseemann/abricate
 
+The INSTALL.sh script automates the installation of all required tools and databases necessary to execute this workflow 
+
 **Databases**
 Two databases need to be installed to run the MetaPhlAn and Abricate tools:
 1. MetaPhlAn Database
